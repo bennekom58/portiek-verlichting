@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Portiek Verlichting</string>
+
+    <string name="help_text">Druk aan de knop om te schakelen</string>
+    <string name="error">Fout</string>
+    <string name="error_set_theme">Fout bij het instellen van het thema</string>
+    <string name="error_comm_wear">Fout in comm. met smartwatch</string>
+    <string name="progress_dialog_switching">Schakelen</string>
+    <string name="progress_dialog_updating">Bijwerken</string>
+    <string name="connecting">Verbinding maken</string>
+</resources>

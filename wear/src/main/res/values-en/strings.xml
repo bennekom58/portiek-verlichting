@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Porch Light</string>
+    <string name="loading_text">Updating&#8230;</string>
+</resources>

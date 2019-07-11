@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Feljáró Világítás</string>
+
+    <string name="help_text">Nyomjon a gombra lámpaoltáshoz</string>
+    <string name="error">Hiba</string>
+    <string name="error_set_theme">Hiba a téma beállításánál</string>
+    <string name="progress_dialog_switching">Lámpaoltás</string>
+    <string name="progress_dialog_updating">Frissítés</string>
+    <string name="error_comm_wear">Hiba az okosóra kommunikációban</string>
+    <string name="connecting">Csatlakozás</string>
+</resources>

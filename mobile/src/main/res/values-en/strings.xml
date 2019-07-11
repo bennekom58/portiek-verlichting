@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Porch Light</string>
+
+    <string name="help_text">Press the button to switch</string>
+    <string name="error">Error</string>
+    <string name="error_set_theme">Error setting the theme</string>
+    <string name="progress_dialog_switching">Switching</string>
+    <string name="progress_dialog_updating">Updating</string>
+    <string name="error_comm_wear">Error in communication with smartwatch</string>
+    <string name="connecting">Connecting</string>
+</resources>
